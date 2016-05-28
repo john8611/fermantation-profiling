@@ -1,0 +1,2954 @@
+#FG_Info>Aerobasidium pullulans
+#	Ethanol
+### has 1 comps
+#FG_Info>Agaricus bisporus
+#	1-Octen-3-ol
+#	3-Methylbutanoic Acid
+### has 2 comps
+#FG_Info>Agaricus campestris
+#	2,3-Dimethyl-1-pentene
+### has 1 comps
+#FG_Info>Alternaria Alternata
+#	6-Methylheptanol
+### has 1 comps
+#FG_Info>Armillaria mellea
+#	(e)-5-acetyl-2,2-dimethyl-1-(3'-methyl-1',3'-butadien-1'-yl)bicyclo[2.1.0]pentane
+#	1-Hexanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Alpha-Amorphene
+#	Alpha-Bisabolene
+#	Alpha-cubebene
+#	Alpha-Humulene
+#	Benzene,1-chloro-4-(trifluoromethyl)-
+#	Beta-Bisabolene
+#	Beta-Cubebene
+#	Beta-Elemene
+#	Cadina-1,4-diene
+#	Calarene
+#	Cis-Calamenene
+#	Cuparene
+#	Curcumene
+#	Delta-Cadinene
+#	Gamma-Curcumene
+#	Gamma-Muurolene
+#	Geosmin
+#	Germacrene D
+#	Himachalene
+#	Linalool
+#	Longipinene
+#	Methyl 2-furancarboxylate
+#	Nerolidol
+#	Octane
+#	T-Cadinol
+#	Trans-beta-farnesene
+#	Zonarene
+### has 36 comps
+#FG_Info>Ascocoryne sarcoides NRRL 50072
+#	1-Octen-3-ol
+#	2-Methyl-1-propanol
+#	2-Phenylethyl Acetate
+#	3-Methyl-1-butanol
+#	3-Methylbutanoic Acid
+#	Acetic Acid, Nonyl Ester
+#	Acetic Acid, Octyl Ester
+#	Benzaldehyde
+#	Benzyl Alcohol
+#	Decanal
+#	Decyl Acetate
+#	Ethanol
+#	Ethyl Acetate
+#	Heptane, 4-methyl-
+#	Nonanal
+#	Oxime-, Methoxy-phenyl-
+#	Pentane
+#	Phenethyl Alcohol
+#	Sesquiterpene
+### has 19 comps
+#FG_Info>Aspergillus candidus
+#	1-Octen-3-ol Etyhl Ester
+#	3-Cyclohepten-1-one Isomer
+### has 2 comps
+#FG_Info>Aspergillus clavatus
+#	#Aspergillus clavatus
+### has 1 comps
+#FG_Info>Species-Fungi: Aspergillus flavus
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Methyl-1-butanol
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-Octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Cis2octen1ol
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 39 comps
+#FG_Info>Species-Fungi: Aspergillus flavus NRRL 18543
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 37 comps
+#FG_Info>Species-Fungi: Aspergillus flavus NRRL 25347
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 37 comps
+#FG_Info>Species-Fungi: Aspergillus fumigatus
+#	2,4-Pentadione
+#	3-Methyl-1,3-pentandione
+#	P-Mentha-6,8-dien-2-ol Acetate
+#	Sesquiterpenes
+### has 4 comps
+#FG_Info>Species-Fungi: Aspergillus niger
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Octene
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-pentanone
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Methyl-2-butenoic Acid Ethylester
+#	3-Methylbutanoic Acid I-pentylester
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 41 comps
+#FG_Info>Species-Fungi: Aspergillus niger NRRL 326
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 37 comps
+#FG_Info>Species-Fungi: Aspergillus ornatus
+#	1-Octen-3-ol
+#	1-Octene
+#	2-Methyl-1-butanol
+#	2-pentanone
+#	3-Methyl-1-butanol
+#	3-Methylbut-3-en-1-ol
+#	3-octanol
+### has 7 comps
+#FG_Info>Species-Fungi: Aspergillus parasiticus NRRL 5862
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 37 comps
+#FG_Info>Species-Fungi: Aspergillus sp.
+#	Dimethyl Selenide
+#	1-(3-Methylphenyl)-ethanone
+#	Sesquiterpenes
+#	Trimethylnonanoic Acid Methylester
+### has 4 comps
+#FG_Info>Species-Fungi: Bjerkandera adusta
+#	2-Hydroxy-3-phenylpropionic Acid
+#	4-Hydroxybenzaldehyde
+#	4-Hydroxybenzyl Alcohol
+#	Acetophenone
+#	Anisaldehyde
+#	Benzaldehyde
+#	Benzoic Acid
+#	Benzyl Alcohol
+#	Cinnamic Acid
+#	Para-Anisyl Alcohol
+#	Phenylpyruvate
+#	Veratraldehyde
+#	Veratryl Alcohol
+### has 13 comps
+#FG_Info>Species-Fungi: Bjerkandera adusta CBS 595.78
+#	4-Hydroxybenzaldehyde
+#	4-Hydroxybenzyl Alcohol
+#	Acetophenone
+#	Anisaldehyde
+#	Benzaldehyde
+#	Benzoic Acid
+#	Benzyl Alcohol
+#	Para-Anisyl Alcohol
+#	Veratraldehyde
+#	Veratryl Alcohol
+### has 10 comps
+#FG_Info>Species-Fungi: Blastomyces dermatitidis
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Boletus variegatus
+#	2-methyl Propanoic Acid
+#	2-Methyl-1-propanol
+#	3-Methyl-1-butanol
+#	Acetoin
+#	Ethanol
+### has 5 comps
+#FG_Info>Species-Fungi: Candida humicola
+#	Dimethyl Selenide
+#	Dimethylarsine
+#	Trimethylarsine
+### has 3 comps
+#FG_Info>Species-Fungi: Candida tropicalis
+#	1-Butanol
+#	2-Butanone
+#	2-Methyl-1-butanol
+#	2-Propanone
+#	Acetaldehyde
+#	Acetic Acid
+#	Ethanol
+#	Methanethiol
+#	Methanol
+### has 9 comps
+#FG_Info>Species-Fungi: Cenococcum geophilum
+#	2,6-Dimethyl-octane
+#	Methyl Dihydrojasmonate
+### has 2 comps
+#FG_Info>Species-Fungi: Ceratocystis fimbriata
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Ceratocystis sp.
+#	2-heptanone
+#	2-Hexenal
+#	2-Propanone
+#	3-Methyl Butanal
+#	Ethanol
+#	Ethyl Acetate
+#	Formaldehyde
+#	Furfural
+#	Methylpropanal
+### has 9 comps
+#FG_Info>Species-Fungi: Daedalea juniperina
+#	Anisaldehyde
+#	Junipal
+### has 2 comps
+#FG_Info>Species-Fungi: Dipodascus aggregatus
+#	Ethyl Acetate
+#	Ethyl Propionate
+### has 2 comps
+#FG_Info>Species-Fungi: Emericella nidulans
+#	1-Octen-3-ol Etyhl Ester
+#	2-Methyl-butanoic Acid Methyl Ester
+#	4,4-Dimethyl-pentenoic Acid Methyl Ester
+#	Beta-Fenchyl Alcohol
+### has 4 comps
+#FG_Info>Species-Fungi: Fistulina hepatica (Schaeffer: Fr.) Fr
+#	(E)-Methyl Cinnamate
+#	9,12-Octadecadienoic Acid Methyl Ester
+#	9-Hexadecenoic Acid Methyl Ester
+#	9-Octadecenoic Acid Methyl Ester
+#	Ethanedioc Acid Dimethyl Ester
+#	Hexadecanoic Acid Methyl Ester
+### has 6 comps
+#FG_Info>Species-Fungi: Fomes annosus
+#	Hexa-1,3,5-triene
+### has 1 comps
+#FG_Info>Species-Fungi: Fomes pomaceus
+#	Methyl Bromides
+### has 1 comps
+#FG_Info>Species-Fungi: Fomes sp.
+#	2-Methyl-1-propanol
+#	Ethanol
+#	Methyl Bromides
+#	Methyl Chloride
+### has 4 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON 1001t
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON 1001ta
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON ZFR 29
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON_4
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 58 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON_6
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON_7
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON_8
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 15AcDON_9
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON 1002t
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON 11791
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON 1509
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON 8046
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON NRRL38369
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON NRRL6394
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON ZFR 15
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON ZFR 37
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum 3AcDON ZFR 51
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV 357
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV ZFR 119
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV ZFR 23
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV ZFR 23
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV ZFR 48
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV_5
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV_6
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV_7
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV_8
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+### has 29 comps
+#FG_Info>Species-Fungi: Fusarium graminearum NIV_9
+#	1,2,4-Trimethylbenzene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Nonanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2-Ethyl-1-hexanol
+#	2-pentanone
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	4-Methylpentan-2-one
+#	6-Methyl-5-hepten-2-one
+#	6-Methylheptan-2-one
+#	Alpha-pinene
+#	Benzaldehyde
+#	Butan-4-olide
+#	Decanal
+#	Dodecane
+#	Heptanal
+#	Hexadecane
+#	Hexanal
+#	Naphtalene
+#	Nonanal
+#	P-Xylene
+#	Pentadecane
+#	Pentanal
+#	Styrene
+#	Tetradecane
+#	Undecane
+#	1-Octen-3-ol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3,5-Dimethylanisole
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Acetoin
+#	Alpha-Amorphene
+#	Alpha-Humulene
+#	Benzene,1-chloro-4-(trifluoromethyl)-
+#	Beta-Bisabolene
+#	Beta-Elemene
+#	Beta-Selinene
+#	Bicyclo[4.4.0]dec-1-en,2-isopropyl-5-methyl-9-methylene-
+#	Cis-Calamenene
+#	Cis-gamma-bisabolene
+#	Cuparene
+#	Delta-Cadinene
+#	Germacrene D
+#	Himachalene
+#	Methyl Dihydrojasmonate
+#	Nerolidol
+#	Octane
+#	Trans-beta-farnesene
+### has 54 comps
+#FG_Info>Species-Fungi: Mucor hiemalis
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Muscodor albus CZ-620
+#	1-Hexanol
+#	1-Pentanol
+#	2-methyl Propanoic Acid
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Phenylethyl Acetate
+#	3-Methyl Butanal
+#	3-Methyl Butyl Acetate
+#	3-Methyl-1-butanol
+#	Acetic Acid
+#	Bulnesene
+#	Ethanol
+#	Hexanal
+#	Methyl 2-methylpropionate
+#	Methylpropanal
+#	Phenethyl Alcohol
+### has 16 comps
+#FG_Info>Species-Fungi: Muscodor albus I-41. 3s
+#	1H Cycloprop[e]azulene,decahydro-1,1,7-trimethyl-4methylene-,[1aR-(1a.alpha.,4a.alpha.,7.alpha.,7a.beta.,7b.alpha.)]-
+#	1H-3a,7-methanoazulene, 2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-, [3R-(3.alpha., 3a.beta.,7.beta.,8a.alpha.)]
+#	Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+#	Bicyclo[3.1.1.] Hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-
+#	Bulnesene
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-, (1.alpha.,4a.alpha.,8a. Alpha.)-
+#	Naphthalene,1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethylidene)-,(4aR-trans)-
+#	Valencene
+### has 8 comps
+#FG_Info>Species-Fungi: Muscodor crispans
+#	2-Butanone
+#	2-methyl Propanoic Acid
+#	2-Methyl-1-propanol
+#	2-Methylbutyl 2-methylpropanoate
+#	2-Methylpropyl 2-methylpropanoate
+#	2-Phenylethyl Acetate
+#	3-Methyl Butyl Acetate
+#	3-Methyl-1-butanol
+#	Acetaldehyde
+#	Cyclohexane, 1,2-dimethyl-3,5-bis(1-methylethenyl)-
+#	E-2-Methyl-2-butenal
+#	Ethanol
+#	Ethyl Acetate
+#	Formamide, N-(1-methylpropyl)-
+#	Hexane, 2,3-dimethyl-
+#	Methyl 2-methylpropionate
+#	Methylpropyl Acetate
+### has 17 comps
+#FG_Info>Species-Fungi: Muscodor fengyangensis (ZJLQ023)
+#	Azulene, 1,2,3,3a,4,5,6,7-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1R-(1.alpha.,4.alpha.,7.alpha.)]-
+#	Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethenyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]-
+#	Naphthalene, 1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-, [1S-(1.alpha.,7.alpha.,8a.alpha.)]-
+#	Spiro[5,5]undec-2-ene,3,7,7-trimethyl-11-methylene-,(-)-
+### has 5 comps
+#FG_Info>Species-Fungi: Muscodor fengyangensis (ZJLQ024)
+#	Azulene, 1,2,3,3a,4,5,6,7-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1R-(1.alpha.,4.alpha.,7.alpha.)]-
+#	Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+#	Cyclohexene,1-methyl-4-(1-methylethylidene)-
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethenyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]-
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]
+#	Valencene
+### has 6 comps
+#FG_Info>Species-Fungi: Muscodor fengyangensis (ZJLQ070)
+#	1,4-Methanoazulene,decahydro-4,8,8-trimethyl-9-methylene,[1S-(1.alpha.,3a.alpha.,4.alpha.,8a.alpha)]-
+#	Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]
+#	Valencene
+### has 4 comps
+#FG_Info>Species-Fungi: Muscodor fengyangensis (ZJLQ151)
+#	1,4-Methanoazulene,decahydro-4,8,8-trimethyl-9-methylene,[1S-(1.alpha.,3a.alpha.,4.alpha.,8a.alpha)]-
+#	1H-Cycloprop[e]azulene, 1a,2,3,5,6,7,7a,7b-octahydro-1,1,4,7-tetramethyl-7-(1-methylethenyl)-, [1aR-(1a.alpha.,4a.alpha.,7.alpha.,7a.beta.,7b.alpha.)]-
+#	Azulene, 1,2,3,3a,4,5,6,7-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1R-(1.alpha.,4.alpha.,7.alpha.)]-
+#	Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethenyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]-
+#	Valencene
+### has 6 comps
+#FG_Info>Species-Fungi: Muscodor fengyangensis (ZJLQ374)
+#	1,1,4a-trimethyl-5,6-dimethylenedecahydro Naphthalene
+#	1,4-Methanoazulen-3-ol,decahydro-1,5,5,8a-tetramethyl-,[1S-1.alpha.,3.alpha.,3a.alpha.,4.alpha.,8a.alpha.)]
+#	1,4-Methanoazulene,decahydro-4,8,8-trimethyl-9-methylene,[1S-(1.alpha.,3a.alpha.,4.alpha.,8a.alpha)]-
+#	Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+#	Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethenyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]-
+#	Valencene
+### has 6 comps
+#FG_Info>Species-Fungi: Mycoleptodonoides aitchisonii TUFC10099
+#	1-Phenyl-3-pentanone
+### has 1 comps
+#FG_Info>Species-Fungi: Neurospora sitophila ATCC 46892
+#	1-Octen-3-ol
+#	3-Methyl-1-butanol
+#	Ethanol
+#	Ethyl Acetate
+#	Ethyl Hexanoate
+### has 5 comps
+#FG_Info>Species-Fungi: Neurospora sp.
+#	1-Octen-3-ol
+#	3-Methyl-1-butanol
+#	Ethanol
+#	Ethyl Acetate
+#	Ethyl Hexanoate
+### has 5 comps
+#FG_Info>Species-Fungi: Paecilomyces variotii
+#	2-Methyl-2,4-hexadiene
+#	3,5,7-Trimethyl-2E,4E,8E-decatetraene
+#	Delta-4-Carene
+### has 3 comps
+#FG_Info>Species-Fungi: Paxillus involutus MAJ
+#	1,4a.beta-dimethyl-7-isopropyl-1,2,3,4,4a,9,10,10a.alpha-octahydrophenanthrene
+#	1-Octen-3-ol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3-Cyclohepten-1-one
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Acetoin
+#	Alpha-Amorphene
+#	Alpha-Humulene
+#	Benzene,1-chloro-4-(trifluoromethyl)-
+#	Beta-Bisabolene
+#	Beta-Elemene
+#	Beta-Selinene
+#	Bicyclo[4.4.0]dec-1-en,2-isopropyl-5-methyl-9-methylene-
+#	Caryophyllene
+#	Cis-Calamenene
+#	Cis-gamma-bisabolene
+#	Cuparene
+#	Delta-Cadinene
+#	Germacrene D
+#	Himachalene
+#	Linalool
+#	Methyl Dihydrojasmonate
+#	Nerolidol
+#	Octane
+#	Trans-beta-farnesene
+### has 28 comps
+#FG_Info>Species-Fungi: Paxillus involutus NAU
+#	1,4a.beta-dimethyl-7-isopropyl-1,2,3,4,4a,9,10,10a.alpha-octahydrophenanthrene
+#	1-Octen-3-ol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3-Cyclohepten-1-one
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Acetoin
+#	Alpha-Amorphene
+#	Alpha-Humulene
+#	Benzene,1-chloro-4-(trifluoromethyl)-
+#	Beta-Bisabolene
+#	Beta-Elemene
+#	Beta-Selinene
+#	Bicyclo[4.4.0]dec-1-en,2-isopropyl-5-methyl-9-methylene-
+#	Caryophyllene
+#	Cis-Calamenene
+#	Cis-gamma-bisabolene
+#	Cuparene
+#	Delta-Cadinene
+#	Germacrene D
+#	Himachalene
+#	Linalool
+#	Methyl Dihydrojasmonate
+#	Nerolidol
+#	Octane
+#	Trans-beta-farnesene
+### has 28 comps
+#FG_Info>Species-Fungi: Penicillium aurantiogriseum
+#	1-Octen-3-ol
+#	1-propanol
+#	2-Methyl-1-propanol
+#	3-Methyl-1-butanol
+#	3-Methylfuran
+#	3-Octen-2-ol
+#	Acetic Acid
+#	Ethanol
+### has 8 comps
+#FG_Info>Species-Fungi: Penicillium chrysogenum
+#	1-Octen-3-ol
+#	1-Octene
+#	2-Hexen-1-ol
+#	2-Methyl-1-butanol
+#	2-Methylbutanoic Acid Ethylester
+#	2-pentanone
+#	3-Methyl-1-butanol
+#	3-Methyl-1-buten-1-ol
+#	3-Methyl-2-butenoic Acid Ethylester
+#	3-Methylbutanoic Acid I-pentylester
+#	3-octanol
+#	3-Octanone
+#	Nonatriene
+#	Octadiene Isomer
+#	Octadiene, 2 Isomers
+#	Sesquiterpenes
+#	Tridecadiene
+### has 17 comps
+#FG_Info>Species-Fungi: Penicillium chrysogenum (IBT 15921)
+#	Nonatriene
+#	Octadiene, 2 Isomers
+#	Tridecadiene
+### has 3 comps
+#FG_Info>Species-Fungi: Penicillium chrysogenum (IBT 15996)
+#	Octadiene Isomer
+### has 1 comps
+#FG_Info>Species-Fungi: Penicillium clavigerum
+#	Bicyclooctan-2-one
+### has 1 comps
+#FG_Info>Species-Fungi: Penicillium crustosum
+#	2-Ethyl-5-methyl-furan
+#	4-Ethylbutan-4-olide
+#	Isopropylfuran
+### has 3 comps
+#FG_Info>Species-Fungi: Penicillium cyclopium
+#	2-Methyl-2-bornene Isomer
+#	4-Methyl-2-(3-methyl-2-butenyl)-furan
+#	Delta-2-Dodecanol
+### has 3 comps
+#FG_Info>Species-Fungi: Penicillium digitatum
+#	Acetylene
+#	Ethane
+#	Ethylene
+#	Propane
+#	Propylene
+### has 5 comps
+#FG_Info>Species-Fungi: Penicillium expansum
+#	1,10-Dimethyl-9-decalinol
+#	Acetic Acid Ethylhexylester
+#	Dihydroedulan I
+#	Geosmin
+#	Sesquiterpenes
+### has 5 comps
+#FG_Info>Species-Fungi: Penicillium glabrum NRRL 766
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 37 comps
+#FG_Info>Species-Fungi: Penicillium palitans (commune) (IBT 15899)
+#	2-Propanol1-Propano
+#	Octadiene 2 Isomers
+### has 2 comps
+#FG_Info>Species-Fungi: penicillium paneum (Conidia)
+#	1,3-Octadiene (trans)
+#	1,3-Octadiene, Cis
+#	1-Octen-3-ol
+#	3-octanol
+#	3-Octanone
+#	5-Octen-3-one
+#	Decanal
+#	Nonanal
+#	Octa-1,5-dien-3-ol
+### has 9 comps
+#FG_Info>Species-Fungi: Penicillium roqueforti (IBT 16404)
+#	(1,1-dimethylethyl)-2-methylphenol
+#	1-methyl-4-(1-methylethyl) Benzene
+#	3-Methylbutyl Butanoate
+#	Alpha-chamigrene
+#	Alpha-panasinsene
+#	Alpha-selinene
+#	Beta-elemene-isomer
+#	Beta-patchoulene-isomer
+#	Butanoic Acid, 2-methyl-2-methylpropyl Ester
+#	Propanoic Acid 2-methyl-2-methylpropyl Ester
+#	Propanoic Acid, 2-methyl-3-methylbutyl Ester
+#	Valencene
+### has 12 comps
+#FG_Info>Species-Fungi: Penicillium sp.
+#	1-Octen-3-ol
+#	2-heptanone
+#	3-Methyl-1-butanol
+#	4-Allylanisole
+#	Dimethyl Selenide
+#	Dimethyltellurite
+### has 6 comps
+#FG_Info>Species-Fungi: Phellinus sp.
+#	Benzyl Alcohol
+#	Ethyl Benzoate
+#	Methyl Benzoate
+#	Methyl Salicylate
+#	Phenethyl Alcohol
+### has 5 comps
+#FG_Info>Species-Fungi: Pholiota squarrosa
+#	(e)-5-acetyl-2,2-dimethyl-1-(3'-methyl-1',3'-butadien-1'-yl)bicyclo[2.1.0]pentane
+#	1-Hexanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Alpha-Amorphene
+#	Alpha-cubebene
+#	Alpha-Humulene
+#	Benzene,1-chloro-4-(trifluoromethyl)-
+#	Beta-Bisabolene
+#	Beta-Cubebene
+#	Beta-Elemene
+#	Cadina-1,4-diene
+#	Calarene
+#	Cis-Calamenene
+#	Cuparene
+#	Curcumene
+#	Delta-Cadinene
+#	Gamma-Curcumene
+#	Geosmin
+#	Germacrene D
+#	Himachalene
+#	Methyl 2-furancarboxylate
+#	Nerolidol
+#	Octane
+#	T-Cadinol
+#	Trans-beta-farnesene
+#	Zonarene
+### has 32 comps
+#FG_Info>Species-Fungi: Phoma sp.
+#	(+)-Aromadendrene
+#	1,4-Cadinadiene
+#	1-Hexene, 2-(P-anisyl)-4-methyl-
+#	1H-3a, 7-Methanoazulene, 2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-,[3r-(3a,3ab,7b,8aa)]-
+#	1H-Benzocycloheptene, 2,4a,5,6,7,8,9,9a-octahyro-3,5,5-trimethyl-9-methylene-,(4as-cis)-
+#	2,3,4-Trimethyl-4-hydroxy-1,4-dihyronaphthalenone
+#	2-Butanone
+#	2-Methyl-1-propanol
+#	3-Methyl-1-butanol
+#	4-(3-Butenyl)-1,2,3,6,7,7a-hexahydro-7a-methyl-5H-inden-5-one
+#	6,10,11,11-Tetramethyl-tricyclo[6.3.0.1(2,3)]undec-7-ene
+#	Alpha-Humulene
+#	Alpha-Longipinene
+#	Alpha-Muurolene
+#	Benzene, 1,3,5-tris (1-methylethyl)-
+#	Beta-Chamigrene
+#	Beta-Selinene
+#	Beta-Ylangene
+#	Cadinene
+#	Calamenene
+#	Caryophyllene
+#	Delta-Guaiene
+#	Epi-bicyclosequiphellandrene
+#	Ethanol
+#	Heptane, 2, 4-dimethyl
+#	Himachalene
+#	Naphthalene, Decahydro-, Cis-
+#	Phenethyl Alcohol
+### has 28 comps
+#FG_Info>Species-Fungi: Puccinia graminis var. tritici
+#	Acetaldehyde
+#	Furfural
+#	Methyl Ferulate
+#	Nonanal
+#	Trimethylethylene
+### has 5 comps
+#FG_Info>Species-Fungi: Rhizopus stolonifer
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Octene
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-Methyl-1-butanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Methyl-1-butanol
+#	3-Methyl-3-buten-1-ol
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+### has 41 comps
+#FG_Info>Species-Fungi: Rhizopus stolonifer NRRL 54667
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-penten-3-ol
+#	1-propanol
+#	2-Butylfuran
+#	2-heptanol
+#	2-heptanone
+#	2-Heptenal
+#	2-hexanol
+#	2-nonanone
+#	2-octanal, (E)
+#	2-Octanol
+#	2-Octen-1-ol
+#	2-Pentanol
+#	2-Penten-1-ol, (Z)
+#	2-Pentylfuran
+#	3-Hexen-1-ol, (Z)
+#	3-Nonen-1-ol, (Z)
+#	3-octanol
+#	3-octanone
+#	3-pentanol
+#	5-Octen-1-ol, (Z)-
+#	5-octen-2-ol
+#	6-undecanone
+#	Chalcogran, (Z)
+#	Conophthorin
+#	Cyclopentanone
+#	Hexan-2-one
+#	Hexan-4-olide
+#	Hexanal
+#	Hexyl Formiate
+#	Nonalactone
+#	Octan-2-one
+#	Pentyl Hexanoate
+#	1,2-Benzenedicarboxylic Acid
+#	1,9Dimethylspiro(4,5)decane
+#	1-propanol
+#	2,5-Dimethylpyrazine
+#	2-(Ethenyloxy)-ethanol
+#	2-Butanone
+#	2-Ethyl-1-hexanol
+#	2-methyl Propanoic Acid
+#	2-Methyl-1-propanol
+#	2-methylbutanoate
+#	2-pentanone
+#	2-Propanol
+#	2-Propanone
+#	3-Methyl Butanal
+#	3-Methylbutanoic Acid
+#	Acetaldehyde
+#	Acetic Acid
+#	Acetic Acid Ethenyl Ester
+#	Alpha-limonene
+#	Dimethyl Disulfide
+#	Ethanol
+#	Ethyl Acetate
+#	Ortho-Dimethylbenzene
+#	Phenethyl Alcohol
+#	Pyrazine
+#	Undecane
+### has 63 comps
+#FG_Info>Species-Fungi: Saccharomyces cerevisiae Y1001
+#	1,2-Benzenedicarboxylic Acid
+#	1,9Dimethylspiro(4,5)decane
+#	2,5-Dimethylpyrazine
+#	2-Butanone
+#	2-Ethyl-1-hexanol
+#	2-methyl Propanoic Acid
+#	2-Methyl-1-propanol
+#	2-methylbutanoate
+#	2-pentanone
+#	2-Propanol
+#	2-Propanone
+#	3-Methyl Butanal
+#	3-Methylbutanoic Acid
+#	Acetic Acid
+#	Acetic Acid Ethenyl Ester
+#	Alpha-limonene
+#	Dimethyl Disulfide
+#	Ethanol
+#	Ethyl Acetate
+#	Ortho-Dimethylbenzene
+#	Phenethyl Alcohol
+#	Pyrazine
+#	Undecane
+### has 23 comps
+#FG_Info>Species-Fungi: Schizophyllum commune
+#	Dimethyl Selenide
+#	Dimethyltellurite
+#	Methanethiol
+### has 3 comps
+#FG_Info>Species-Fungi: Scopulariopsis brevicaulis
+#	Dimethyl Selenide
+#	Dimethylarsine
+#	Dimethyltellurite
+#	Trimethylarsine
+### has 4 comps
+#FG_Info>Species-Fungi: Stropharia rugosoannulata
+#	1-Hexanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Acetoin
+#	Alpha-Amorphene
+#	Alpha-cubebene
+#	Alpha-Muurolene
+#	Benzenepropanol
+#	Beta-Bisabolene
+#	Beta-Cubebene
+#	Beta-Selinene
+#	Bicyclo[4.4.0]dec-1-en,2-isopropyl-5-methyl-9-methylene-
+#	Cadina-1,4-diene
+#	Calarene
+#	Cis-Calamenene
+#	Cis-gamma-bisabolene
+#	Curcumene
+#	Delta-Cadinene
+#	Gamma-Curcumene
+#	Gamma-Selinene
+#	Germacrene D
+#	Himachalene
+#	Linalool
+#	Methyl 2-furancarboxylate
+#	Methyl Dihydrojasmonate
+#	Nerolidol
+#	T-Cadinol
+#	Trans-beta-farnesene
+### has 33 comps
+#FG_Info>Species-Fungi: Thielaviopsis basicola
+#	2-heptanone
+#	2-Hexenal
+#	2-Propanone
+#	3-Methyl Butanal
+#	Ethanol
+#	Ethyl Acetate
+#	Formaldehyde
+#	Furfural
+#	Methylpropanal
+### has 9 comps
+#FG_Info>Species-Fungi: Tilletia caries
+#	Trimethylamine
+### has 1 comps
+#FG_Info>Species-Fungi: Tilletia controversa
+#	Trimethylamine
+### has 1 comps
+#FG_Info>Species-Fungi: Tilletia foetida
+#	Trimethylamine
+### has 1 comps
+#FG_Info>Species-Fungi: Trichodema pseudokoningii
+#	1-Butanol
+#	1-Hexanol
+#	1-Pentanol
+#	1-propanol
+#	2-Butanone
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Propanone
+#	3-Methyl-1-butanol
+#	6-Methyl-5-hepten-2-one
+#	Alpha-limonene
+#	Decanal
+#	Ethanol
+#	Ethyl Acetate
+#	Heptanal
+#	Hexane
+#	Octane
+#	P-Xylene
+### has 18 comps
+#FG_Info>Species-Fungi: Trichodema viride
+#	1-Butanol
+#	1-propanol
+#	2-Butanone
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Propanone
+#	3-Methyl-1-butanol
+#	6-Methyl-5-hepten-2-one
+#	Banzothiazole
+#	Benzaldehyde
+#	Butanal
+#	Caryophyllene
+#	Decanal
+#	Ethanol
+#	Ethyl Acetate
+#	Heptanal
+#	Hexanal
+#	Hexane
+#	Methyl-cyclohexane
+#	Nonanal
+#	Octane
+#	Propanal
+### has 22 comps
+#FG_Info>Species-Fungi: Trichoderma atroviride
+#	1-Octen-3-ol
+#	2-heptanone
+#	2-nonanone
+#	2-undecanone
+#	3-Methyl-1-butanol
+#	3-octanol
+#	3-Octanone
+#	Alpha-limonene
+#	Alpha-phellandrene
+#	Alpha-terpinolene
+#	Beta-Myrcene
+#	Nerolidol
+#	Phenethyl Alcohol
+### has 13 comps
+#FG_Info>Species-Fungi: Trichoderma atroviride ATCC 74058
+#	1-Octen-3-ol
+#	2-heptanone
+#	2-nonanone
+#	2-undecanone
+#	3-octanol
+#	3-Octanone
+#	Alpha-phellandrene
+#	Nerolidol
+#	Phenethyl Alcohol
+### has 9 comps
+#FG_Info>Species-Fungi: Trichoderma aureoviride IMI 91968
+#	2,4 Dimethyl-1-decane
+#	2-nonanone
+#	4-methyl-3-penenoic Acid
+### has 3 comps
+#FG_Info>Species-Fungi: Trichoderma harzianum T-E5 CCTCC AF2012011
+#	Alpha-cubebene
+#	Alpha-panasinsene
+#	Beta-Bisabolene
+#	Curcumene
+#	Nerolidol
+#	Pentadecane
+### has 6 comps
+#FG_Info>Species-Fungi: Trichoderma pseudokoningii (T64)
+#	3-Methyl-propanol
+### has 1 comps
+#FG_Info>Species-Fungi: Trichoderma reesei
+#	1-Octen-3-ol
+#	2-heptanone
+#	3-Octanone
+#	Alpha-limonene
+#	Alpha-terpinolene
+#	Beta-Myrcene
+### has 6 comps
+#FG_Info>Species-Fungi: Trichoderma sp.
+#	2-Propanone
+#	Acetaldehyde
+#	Ethanol
+### has 3 comps
+#FG_Info>Species-Fungi: Trichoderma virens
+#	1-Octen-3-ol
+#	2-heptanone
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Alpha-limonene
+#	Alpha-terpinolene
+#	Beta-Myrcene
+### has 7 comps
+#FG_Info>Species-Fungi: Trichoderma viride
+#	1,3-Octadiene (trans)
+#	1-Butanol
+#	1-Decene
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2,6-Dimethyl-octane
+#	2-Butanol
+#	2-Ethylhexanal
+#	2-heptanone
+#	2-heptylfuran
+#	2-Methyl-1-butanol
+#	2-pentanone
+#	2-Pentylfuran
+#	2-Propanone
+#	3-Methyl Butanal
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	5-Methyl-5-hexem-3-ol
+#	6-Methyl-5-hepten-2-one
+#	Acetoin
+#	Alpha-Amorphene
+#	Alpha-Bergamotene
+#	Alpha-cubebene
+#	Alpha-limonene
+#	Alpha-Ylangene
+#	Aromadendrene
+#	Banzothiazole
+#	Beta-Bisabolene
+#	Beta-Cubebene
+#	Beta-Selinene
+#	Beta-Sesquiphellandrene
+#	Bicyclo[4.4.0]dec-1-en,2-isopropyl-5-methyl-9-methylene-
+#	Butanal
+#	Cadina-1,4-diene
+#	Calarene
+#	Cis-Calamenene
+#	Cis-gamma-bisabolene
+#	Curcumene
+#	Cyclohexanisothiocyanate
+#	Decanal
+#	Delta-Cadinene
+#	Ethanol
+#	Gamma-Curcumene
+#	Geranylacetone
+#	Germacrene D
+#	Heptanal
+#	Hexanal
+#	Himachalene
+### has 50 comps
+#FG_Info>Species-Fungi: Trichoderma viride (T60)
+#	5-Methyl-5-hexem-3-ol
+#	Banzothiazole
+### has 2 comps
+#FG_Info>Species-Fungi: Tuber aestivum
+#	1,2,4-Trimethylbenzene
+#	1,3,4-Trimethyl-2-pyrazoline
+#	1,3-Butanediol
+#	1,3-Dimethylbenzene
+#	1,3-Pentadiene
+#	1-Butanol
+#	1-Heptanol
+#	1-Hexanol
+#	1-Hexen-3-one
+#	1-Methoxy-3-methylbenzene
+#	1-Methylpropyl Formate
+#	1-Octen-3-ol
+#	1-Octen-3-one
+#	1-propanol
+#	2,3-butanedione
+#	2,3-Octanedione
+#	2,4-Decadienal
+#	2,4-Nonadienal
+#	2,6-Bis(1,1-dimethylethyl)-4-methylphenol
+#	2-Butanol
+#	2-Butanone
+#	2-Butenal
+#	2-Butyl Acetate
+#	2-Ethyl-1-hexanol
+#	2-Heptenal
+#	2-Methoxy-4-ethyl-6-methylphenol
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Methyl-3-furanthiol
+#	2-Methylbutyl Acetate
+#	2-Methylhexanoic Acid
+#	2-Pentylfuran
+#	2-Propanone
+#	2-undecanone
+#	3-Ethyl-5-methylphenol
+#	3-Ethylphenol
+#	3-Methyl Butanal
+#	3-Methyl-1-butanol
+#	3-Methyl-3-penten-2-one
+#	3-Methyl-butanoic Acid Ethyl Ester
+#	3-octanol
+#	3-Octanone
+#	3-Propylphenol
+#	4-Hydroxy-3-methyl-2-butanone
+#	5-Methyl-2-propylphenol
+#	Acetaldehyde
+#	Acetic Acid
+#	Acetic Acid, Methyl Ester
+#	Acrylic Acid
+#	Alpha-Ethylidene-phenylacetaldehyde
+### has 50 comps
+#FG_Info>Species-Fungi: Tuber borchii
+#	(5-Ethylcyclopent-1-enyl)methanol
+#	1,2-Pentadiene
+#	1-Heptanol
+#	1-Hexanol
+#	1-Methylethylte1-Methylethyltetradecanoate
+#	1-Methylpropyl Formate
+#	1-Octen-3-ol
+#	1-propanol
+#	2-Butanol
+#	2-Ethyl-1-hexanol
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Methyl-4,5-dihydrothiophene
+#	2-Methylfuran
+#	3,7-Dimethyl- 1,3,7-octatriene
+#	3-Methyl Butanal
+#	3-Methyl-1-butanol
+#	3-Methylthiophene
+#	3-octanol
+#	3-Octanone
+#	Benzo[c]thiophene
+#	Butane-2,3-diol
+#	Decane
+#	Ethanol
+#	Ethyl 2-methylbut-2-enoate
+#	Ethylene
+#	Isoprene
+#	Pentanal
+#	Phenethyl Alcohol
+#	Styrene
+#	Tetradecanal
+#	Tetradecane
+#	Toluene
+### has 33 comps
+#FG_Info>Species-Fungi: Tuber borchii 43BO
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Tuber borchii ATCC 96540
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Tuber brumale
+#	1,2,4-Trimethoxybenzene
+#	1,4-Dimethoxybenzene
+#	1-Butanol
+#	1-Methoxy-3-methylbenzene
+#	1-Methoxy-4-methylbenzene
+#	1-Methylpropyl Formate
+#	1-Octen-3-ol
+#	1-Propynylbenzene
+#	2-Butanol
+#	2-Butanone
+#	2-Butyl Acetate
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Propanol
+#	2-Propanone
+#	3-Ethyl-5-methylphenol
+#	3-Methyl Butanal
+#	3-Octanone
+#	4-Hydroxy-3-methyl-2-butanone
+#	Acetaldehyde
+#	Acetic Acid, Methyl Ester
+#	Alpha-limonene
+#	Anisole
+#	Benzo[b]thiophene
+#	Butanoic Acid, 1-methylpropyl Ester
+#	Butanoic Acid, Propyl Ester
+#	Decane
+#	Dimethyl Sulfide
+#	Ethanol
+#	Ethyl 2-methyl Butanoate
+#	Ethyl Acetate
+#	Ethyl Butanoate
+#	Ethyl Propionate
+#	Methyl Butanoate
+#	Methylethyl Formate
+#	Methylpropanal
+#	Propanoic Acid, Propyl Ester
+#	Styrene
+#	Toluene
+### has 39 comps
+#FG_Info>Species-Fungi: Tuber excavatum
+#	1-Nonanol
+#	1-Octen-3-ol
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Pentylfuran
+#	3-Methyl Butanal
+#	3-Methyl-1-butanol
+#	3-octanol
+#	3-Octanone
+#	Acetic Acid
+#	Benzaldehyde
+#	Benzo[c]thiophene
+#	Cis-Methylpropenylsulfide
+#	Dimethyl Sulfide
+#	Ethanol
+#	Styrene
+#	Toluene
+### has 17 comps
+#FG_Info>Species-Fungi: Tuber indicum
+#	(5-Ethylcyclopent-1-enyl)methanol
+#	1-Heptanol
+#	1-Hexanol
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	1-propanol
+#	2-Methyl-1-pentanol
+#	2-Methyl-1-propanol
+#	2-Methyl-2-pentenal
+#	2-Octen-1-ol
+#	3-Methyl Butanal
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	5-Methyl-1-hexanol
+#	Cyclohexanol
+#	E-2-Methyl-2-butenal
+#	Hexanal
+#	Phenethyl Alcohol
+#	Trans-(2-Ethylcyclopentyl)methanol
+#	Trans-2-Octenal
+### has 21 comps
+#FG_Info>Species-Fungi: Tuber magnatum
+#	(-)-Germacrene D
+#	(Methylsulfinyl)(methylthio)methane
+#	1,2,4-Trithiolane
+#	1-(Methylthio)pentane
+#	2,20-Dithiodiethanol
+#	2,4,6-Trimethylbenzenethiol
+#	2,4-Dithiapentane
+#	2-Benzoyl-1,3-dithiane
+#	2-Ethyl-1-hexanethiol
+#	2-Hydroxyethyl Propyl Sulfide
+#	2-Mercaptoethanol
+#	2-Methylthioacetic Acid
+#	3-Carene
+#	3-Methyl Butanal
+#	4-Cyanothiophenol
+#	AlloAromadendrene
+#	Alpha-Gurjunene
+#	Alpha-limonene
+#	Alpha-Longipinene
+#	Alpha-phellandrene
+#	Alpha-pinene
+#	Banzothiazole
+#	Camphene
+#	Camphor
+#	Carbonodithioic Acid, S,S-dimethyl Ester
+#	Carveol
+#	Cedrol
+#	Cis-Methylpropenylsulfide
+#	Cumene Hydroperoxide
+#	Diethanol Sulfide
+#	Diethyl Trisulfide
+#	Dimethyl Disulfide
+#	Dimethyl Sulfide
+#	Dimethyl Trisulfide
+#	Gamma-Muurolene
+#	Gamma-Selinene
+#	Gamma-Terpinene
+#	Guaiene
+#	Himachalene
+#	Hydroxybenzene-4-sulfonic Acid
+#	Ledene
+#	Longifolene
+#	Methanethiol
+#	Methional
+#	Methyl Pentyl Disulfide
+#	Methyl(methylthio)methyl Disulfide
+#	P-Cymene
+#	Sabinene
+#	Sulfurous Acid, Isobutyl 2-pentyl Ester
+#	Sylvestrene
+### has 50 comps
+#FG_Info>Species-Fungi: Tuber melanosporum
+#	(5-Ethylcyclopent-1-enyl)methanol
+#	1,2,4-Trimethylbenzene
+#	1,2-Dimethoxy-4-(2-propenyl)benzene
+#	1,2-Dimethoxybenzene
+#	1,3-Dimethoxybenzene
+#	1-Butanol
+#	1-Heptanol
+#	1-Hexanol
+#	1-Hexen-3-one
+#	1-Methoxy-3-methylbenzene
+#	1-Methoxy-4-(1-propenyl)-benzene
+#	1-Methyl-4-(phenylmethyl)benzene
+#	1-Methylpropyl Formate
+#	1-Octanol
+#	1-Octen-3-ol
+#	1-Octen-3-one
+#	1-propanol
+#	2,3-butanedione
+#	2,3-Dihydro-4-methylfuran
+#	2,3-Octanedione
+#	2,4-Decadienal
+#	2,4-Nonadienal
+#	2,5-Dimethoxytoluene
+#	2,6-Bis(1,1-dimethylethyl)-4-methylphenol
+#	2-(1-Methylethyl)phenol
+#	2-Butanol
+#	2-Butanone
+#	2-Butenal
+#	2-Ethyl-1,4-dimethylbenzene
+#	2-Ethyl-1-hexanol
+#	2-Heptenal
+#	2-Methoxy-4-ethyl-6-methylphenol
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Methyl-2-pentenal
+#	2-Methyl-3-furanthiol
+#	2-Methyl-4,5-dihydrothiophene
+#	2-Methylbutyl 2-methylbutanoate
+#	2-Methylbutyl 2-methylpropanoate
+#	2-Methylhexanoic Acid
+#	2-Methylpentanal
+#	2-Methylpropyl 2-methylbutanoate
+#	2-Methylpropyl 2-methylpropanoate
+#	2-Methylpropyl 3-methylbutanoate
+#	2-Octen-1-ol
+#	2-Pentene, 3-ethyl-2-methyl
+#	2-Pentylfuran
+#	2-Propanol
+#	2-Propanone
+#	2-undecanone
+### has 50 comps
+#FG_Info>Species-Fungi: Tuber melanosporum Bal1
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Tuber melanosporum Rey_t
+#	Ethylene
+### has 1 comps
+#FG_Info>Species-Fungi: Tuber mesentericum
+#	1,2-Pentadiene
+#	1,2-Propanediol
+#	1-Butanol
+#	1-Methoxy-3-methylbenzene
+#	1-Nonanol
+#	1-propanol
+#	1-undecene
+#	2,3,5-Trimethoxytoluene
+#	2,3-Dimethoxytoluene
+#	2,5-Dimethoxytoluene
+#	2-Butanol
+#	2-Butanone
+#	2-Ethylanisole
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Pentene, 3-ethyl-2-methyl
+#	2-Propanone
+#	3,4-Dimethoxytoluene
+#	3-Methyl Butanal
+#	3-Octanone
+#	4-Hydroxy-3-methyl-2-butanone
+#	Acetaldehyde
+#	Acetic Acid, Methyl Ester
+#	Benzaldehyde
+#	Butane-2,3-diol
+#	Butanoic Acid, Propyl Ester
+#	Dimethyl Sulfide
+#	Ethanol
+#	Ethyl 2-methyl Butanoate
+#	Ethyl Acetate
+#	Ethyl Propionate
+#	Heptacosane
+#	Heptanal
+#	Hexacosane
+#	Hexanal
+#	Isoprene
+#	Methyl 2-methylbutanoate
+#	Methyl Butanoate
+#	Methyldiethyldithiocarbamide
+#	Phenethyl Alcohol
+#	Propanoic Acid, Propyl Ester
+#	Thiourea
+### has 42 comps
+#FG_Info>Species-Fungi: Tuber oligospermum
+#	2-Propanone
+#	3-Methyl Butanal
+#	Acetaldehyde
+### has 3 comps
+#FG_Info>Species-Fungi: Tuber panniferum
+#	1-Nonadecene
+#	2-Butanone
+#	3-Methyl Butanal
+#	3-Octanone
+#	6(Z),9(E)-Heptadecadiene
+#	Benzaldehyde
+#	Dimethyl Disulfide
+#	Heptadecene
+#	Methylpropanal
+### has 9 comps
+#FG_Info>Species-Fungi: Tuber rufum
+#	1-Butanol
+#	2-Butanol
+#	2-Butanone
+#	2-Methyl-1-butanol
+#	2-Methyl-1-propanol
+#	2-Propanol
+#	2-Propanone
+#	4-Hydroxy-3-methyl-2-butanone
+#	Acetaldehyde
+#	Acetic Acid, 1-methylethyl Ester
+#	Acetic Acid, Methyl Ester
+#	Acetic Acid, Propyl Ester
+#	Butanoic Acid, Propyl Ester
+#	Dimethyl Sulfide
+#	Ethanol
+#	Ethenamine, N-methylene
+#	Ethyl 2-methyl Butanoate
+#	Ethyl Acetate
+#	Ethyl Butanoate
+#	Ethyl Propionate
+#	Methyl 2-methylbutanoate
+#	Methyl Butanoate
+#	Propanoic Acid, Methyl Ester
+#	Propanoic Acid, Propyl Ester
+### has 24 comps
+#FG_Info>Species-Fungi: Tuber simonea
+#	1,3-Pentadiene
+#	1-Butanol
+#	2-Butanol
+#	2-Butanone
+#	2-Methyl-1-propanol
+#	2-Propanone
+#	2H-1-Benzopyran-2-one, 7-[(3,7-dimethyl-2,6-octadienyl)oxy]-
+#	4-Hydroxy-3-methyl-2-butanone
+#	Acetaldehyde
+#	Acetic Acid, Methyl Ester
+#	Butanoic Acid, Propyl Ester
+#	Butyl Acetate
+#	Dimethyl Sulfide
+#	Ethanol
+#	Ethyl 2-methyl Butanoate
+#	Ethyl Acetate
+#	Ethyl Butanoate
+#	Ethyl Propionate
+#	Methyl 2-methylbutanoate
+#	Methyl 2-methylpropionate
+#	Methyl Butanoate
+#	Propanoic Acid, Propyl Ester
+### has 22 comps
+#FG_Info>Species-Fungi: Tuber uncinatum
+#	1-Octen-3-ol
+#	2-Butanone
+#	2-Octen-1-ol
+#	3-Methyl Butanal
+#	3-octanol
+#	3-Octanone
+#	Dimethyl Sulfide
+#	Trans-2-Octenal
+### has 8 comps
+#FG_Info>Species-Fungi: Verticillium longisporum
+#	(e)-5-acetyl-2,2-dimethyl-1-(3'-methyl-1',3'-butadien-1'-yl)bicyclo[2.1.0]pentane
+#	1-Hexanol
+#	1-Octen-3-ol
+#	1-Pentanol
+#	2,6-Dimethyl-octane
+#	2-Methyl-1-butanol
+#	2-Pentylfuran
+#	3-Methyl-1-butanol
+#	3-Octanone
+#	Benzene,1-chloro-4-(trifluoromethyl)-
+#	Geosmin
+#	Methyl 2-furancarboxylate
+#	Octane
+#	Zonarene
+### has 14 comps
+#Total 133 fungi...
+#Total 2242 cmpds...
+#Unique 443 cmpds...
+Pentanal
+1-Hexen-3-one
+Methyldiethyldithiocarbamide
+1,1,4a-trimethyl-5,6-dimethylenedecahydro Naphthalene
+5-Methyl-1-hexanol
+2-Methyl-1-pentanol
+P-Cymene
+Benzaldehyde
+2,4 Dimethyl-1-decane
+(-)-Germacrene D
+2-Octen-1-ol
+Cyclohexene,1-methyl-4-(1-methylethylidene)-
+Propylene
+1-Decene
+Alpha-Humulene
+1-Octanol
+Dihydroedulan I
+Cyclohexanol
+Sylvestrene
+Decyl Acetate
+Acetic Acid
+2-undecanone
+Acetic Acid, 1-methylethyl Ester
+2-Methyl-1-propanol
+Isopropylfuran
+2-Methyl-2-pentenal
+Benzoic Acid
+4,4-Dimethyl-pentenoic Acid Methyl Ester
+2-Methylpropyl 2-methylbutanoate
+Camphene
+2-Ethyl-1-hexanethiol
+1-Nonadecene
+(1,1-dimethylethyl)-2-methylphenol
+Methanethiol
+2-Butanone
+Junipal
+Butanoic Acid, 1-methylpropyl Ester
+4-Hydroxybenzaldehyde
+Ledene
+Calarene
+9,12-Octadecadienoic Acid Methyl Ester
+Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethenyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]-
+3-octanol
+Ethyl Hexanoate
+2-nonanone
+Ethenamine, N-methylene
+1-Methoxy-3-methylbenzene
+Epi-bicyclosequiphellandrene
+Butane-2,3-diol
+Beta-Cubebene
+2,3-Dimethyl-1-pentene
+Beta-Sesquiphellandrene
+1,3-Dimethoxybenzene
+Heptane, 4-methyl-
+1,3,4-Trimethyl-2-pyrazoline
+Methanol
+3,5-Dimethylanisole
+4-Hydroxybenzyl Alcohol
+1-propanol
+Toluene
+Cis2octen1ol
+Octa-1,5-dien-3-ol
+4-Hydroxy-3-methyl-2-butanone
+Alpha-Bisabolene
+2-Ethyl-1,4-dimethylbenzene
+1,4-Cadinadiene
+Delta-4-Carene
+2-Methylbutyl 2-methylbutanoate
+3-Hexen-1-ol, (Z)
+Propanoic Acid, Propyl Ester
+2,3,5-Trimethoxytoluene
+1-Hexene, 2-(P-anisyl)-4-methyl-
+Gamma-Muurolene
+Dimethyltellurite
+Hexyl Formiate
+Methional
+2-hexanol
+2-Methyl-1-butanol
+Acetic Acid Ethylhexylester
+Linalool
+1,2,4-Trimethylbenzene
+Heptane, 2, 4-dimethyl
+Decanal
+1H-3a, 7-Methanoazulene, 2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-,[3r-(3a,3ab,7b,8aa)]-
+T-Cadinol
+Ethanedioc Acid Dimethyl Ester
+1-Methyl-4-(phenylmethyl)benzene
+2-Pentanol
+Methyl Bromides
+3-Methylthiophene
+Azulene, 1,2,3,3a,4,5,6,7-octahydro-1,4-dimethyl-7-(1-methylethenyl)-, [1R-(1.alpha.,4.alpha.,7.alpha.)]-
+3,5,7-Trimethyl-2E,4E,8E-decatetraene
+2-methylbutanoate
+2,4-Decadienal
+Dimethyl Sulfide
+Acrylic Acid
+1,3-Pentadiene
+Caryophyllene
+2-Propanone
+Dimethyl Disulfide
+Gamma-Selinene
+3-Methyl-butanoic Acid Ethyl Ester
+Nerolidol
+Pentadecane
+Delta-Cadinene
+Decane
+2-Hydroxy-3-phenylpropionic Acid
+2-Methylbutyl 2-methylpropanoate
+Dimethyl Selenide
+2-Hydroxyethyl Propyl Sulfide
+4-(3-Butenyl)-1,2,3,6,7,7a-hexahydro-7a-methyl-5H-inden-5-one
+3-Octen-2-ol
+Thiourea
+1-Heptanol
+2-Heptenal
+Methyl-cyclohexane
+Tetradecane
+AlloAromadendrene
+Butan-4-olide
+2,3-butanedione
+4-Allylanisole
+Dodecane
+Geranylacetone
+2-Ethylanisole
+Dimethylarsine
+3-Methyl Butyl Acetate
+Alpha-Amorphene
+Benzo[b]thiophene
+Naphtalene
+Alpha-Ethylidene-phenylacetaldehyde
+Cyclohexanisothiocyanate
+P-Xylene
+Bulnesene
+1-Methoxy-4-(1-propenyl)-benzene
+Carbonodithioic Acid, S,S-dimethyl Ester
+Tridecadiene
+Heptacosane
+Curcumene
+3-Methyl-3-penten-2-one
+2-Ethyl-1-hexanol
+1,3-Octadiene (trans)
+9-Hexadecenoic Acid Methyl Ester
+Beta-Selinene
+Cyclohexane, 1,2-dimethyl-3,5-bis(1-methylethenyl)-
+Beta-Fenchyl Alcohol
+Phenylpyruvate
+Heptadecene
+Oxime-, Methoxy-phenyl-
+Isoprene
+2-Pentylfuran
+Octane
+Methyl 2-methylbutanoate
+Calamenene
+Methyl Benzoate
+1-Propynylbenzene
+3-Methylbutanoic Acid
+5-Methyl-5-hexem-3-ol
+Diethanol Sulfide
+2,3-Octanedione
+Methyl 2-furancarboxylate
+2-Methoxy-4-ethyl-6-methylphenol
+Ethyl 2-methyl Butanoate
+Benzenepropanol
+Trimethylnonanoic Acid Methylester
+Alpha-panasinsene
+Chalcogran, (Z)
+Alpha-Longipinene
+Anisole
+Alpha-Muurolene
+Acetophenone
+1,2-Dimethoxy-4-(2-propenyl)benzene
+Delta-Guaiene
+3-Methyl-3-buten-1-ol
+2-Penten-1-ol, (Z)
+Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethyl)-, [2R-(2.alpha.,4a.alpha.,8a.beta.)]
+1,4-Methanoazulene,decahydro-4,8,8-trimethyl-9-methylene,[1S-(1.alpha.,3a.alpha.,4.alpha.,8a.alpha)]-
+Conophthorin
+9-Octadecenoic Acid Methyl Ester
+2,4-Pentadione
+Acetoin
+1,2,4-Trimethoxybenzene
+Methylpropanal
+Alpha-chamigrene
+2-Phenylethyl Acetate
+3-Propylphenol
+2,6-Dimethyl-octane
+Alpha-terpinolene
+Hexanal
+Formamide, N-(1-methylpropyl)-
+Nonatriene
+Cedrol
+6-undecanone
+2-Butanol
+Naphthalene, 1,2,3,4,4a,5,6,8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl)-, (1.alpha.,4a.alpha.,8a. Alpha.)-
+6(Z),9(E)-Heptadecadiene
+1-Methoxy-4-methylbenzene
+Trans-beta-farnesene
+6-Methylheptan-2-one
+2-Pentene, 3-ethyl-2-methyl
+Dimethyl Trisulfide
+2-Hexenal
+Bicyclooctan-2-one
+2-Methyl-4,5-dihydrothiophene
+Azulene, 1,2,3,4,5,6,7,8-octahydro-1,4-dimethyl-7-
+3-pentanol
+6-Methylheptanol
+Benzo[c]thiophene
+3-Cyclohepten-1-one
+Sulfurous Acid, Isobutyl 2-pentyl Ester
+1,3-Butanediol
+Bicyclo[4.4.0]dec-1-en,2-isopropyl-5-methyl-9-methylene-
+Acetic Acid, Methyl Ester
+Styrene
+3-Methyl-1-butanol
+3-Cyclohepten-1-one Isomer
+Trans-(2-Ethylcyclopentyl)methanol
+Pentyl Hexanoate
+Benzyl Alcohol
+Geosmin
+Guaiene
+Germacrene D
+Naphthalene, 1,2,3,5,6,7,8,8a-octahydro-1,8a-dimethyl-7-(1-methylethenyl)-, [1S-(1.alpha.,7.alpha.,8a.alpha.)]-
+1-Octen-3-ol Etyhl Ester
+4-methyl-3-penenoic Acid
+Pentane
+1H-3a,7-methanoazulene, 2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-, [3R-(3.alpha., 3a.beta.,7.beta.,8a.alpha.)]
+1,4-Methanoazulen-3-ol,decahydro-1,5,5,8a-tetramethyl-,[1S-1.alpha.,3.alpha.,3a.alpha.,4.alpha.,8a.alpha.)]
+Cumene Hydroperoxide
+1-Nonanol
+Longipinene
+(Methylsulfinyl)(methylthio)methane
+Octadiene, 2 Isomers
+Acetylene
+Benzene, 1,3,5-tris (1-methylethyl)-
+Beta-Ylangene
+Alpha-cubebene
+2-octanal, (E)
+Octan-2-one
+Gamma-Terpinene
+(e)-5-acetyl-2,2-dimethyl-1-(3'-methyl-1',3'-butadien-1'-yl)bicyclo[2.1.0]pentane
+2-Methylbutyl Acetate
+4-Ethylbutan-4-olide
+2,4,6-Trimethylbenzenethiol
+Hexan-4-olide
+Carveol
+2-Ethyl-5-methyl-furan
+2-Methyl-butanoic Acid Methyl Ester
+Benzene,1-chloro-4-(trifluoromethyl)-
+Furfural
+4-Methylpentan-2-one
+Beta-Chamigrene
+Alpha-Gurjunene
+1,2-Dimethoxybenzene
+1-Octen-3-ol
+5-octen-2-ol
+1-methyl-4-(1-methylethyl) Benzene
+Methylpropyl Acetate
+2-Methylthioacetic Acid
+Hexane
+1-Methylpropyl Formate
+Cadinene
+Naphthalene, Decahydro-, Cis-
+2-Methyl-2,4-hexadiene
+6,10,11,11-Tetramethyl-tricyclo[6.3.0.1(2,3)]undec-7-ene
+1,3-Octadiene, Cis
+Hexacosane
+Alpha-Ylangene
+Phenethyl Alcohol
+2-Methylpentanal
+Cinnamic Acid
+Acetic Acid Ethenyl Ester
+3-Ethyl-5-methylphenol
+2-Methylpropyl 3-methylbutanoate
+Ethyl Benzoate
+Cuparene
+1-Octene
+Cis-gamma-bisabolene
+Veratraldehyde
+1,10-Dimethyl-9-decalinol
+3,7-Dimethyl- 1,3,7-octatriene
+3-Methyl-propanol
+2-Mercaptoethanol
+1-(Methylthio)pentane
+Alpha-limonene
+2-Methylpropyl 2-methylpropanoate
+2-Benzoyl-1,3-dithiane
+Bicyclo[3.1.1.] Hept-2-ene, 2,6-dimethyl-6-(4-methyl-3-pentenyl)-
+#Aspergillus clavatus
+Ethyl 2-methylbut-2-enoate
+Diethyl Trisulfide
+Ethane
+2-heptylfuran
+1-Phenyl-3-pentanone
+Propanoic Acid 2-methyl-2-methylpropyl Ester
+Beta-Myrcene
+2-(Ethenyloxy)-ethanol
+2-Octanol
+Hexa-1,3,5-triene
+1H-Benzocycloheptene, 2,4a,5,6,7,8,9,9a-octahyro-3,5,5-trimethyl-9-methylene-,(4as-cis)-
+Cadina-1,4-diene
+Ethyl Propionate
+Sesquiterpenes
+1,2,4-Trithiolane
+3-Methyl-1,3-pentandione
+4-Methyl-2-(3-methyl-2-butenyl)-furan
+Acetic Acid, Nonyl Ester
+Methyl Butanoate
+Para-Anisyl Alcohol
+Alpha-phellandrene
+2,3-Dihydro-4-methylfuran
+1H-Cycloprop[e]azulene, 1a,2,3,5,6,7,7a,7b-octahydro-1,1,4,7-tetramethyl-7-(1-methylethenyl)-, [1aR-(1a.alpha.,4a.alpha.,7.alpha.,7a.beta.,7b.alpha.)]-
+Hexan-2-one
+Himachalene
+2-methyl Propanoic Acid
+Propanal
+Ethanol
+1-penten-3-ol
+2-Propanol
+5-Octen-3-one
+Methylethyl Formate
+Methyl Pentyl Disulfide
+(+)-Aromadendrene
+1-(3-Methylphenyl)-ethanone
+Camphor
+2-Butylfuran
+Butyl Acetate
+(E)-Methyl Cinnamate
+Tetradecanal
+Heptanal
+Ethyl Butanoate
+2-Methyl-2-bornene Isomer
+2H-1-Benzopyran-2-one, 7-[(3,7-dimethyl-2,6-octadienyl)oxy]-
+Methyl Ferulate
+2,4-Dithiapentane
+3-Methylbutanoic Acid I-pentylester
+1,4a.beta-dimethyl-7-isopropyl-1,2,3,4,4a,9,10,10a.alpha-octahydrophenanthrene
+Nonalactone
+1,2-Benzenedicarboxylic Acid
+Aromadendrene
+Alpha-selinene
+1-Methylethylte1-Methylethyltetradecanoate
+Propane
+Trimethylarsine
+Undecane
+Hexadecanoic Acid Methyl Ester
+Acetaldehyde
+Methyl Salicylate
+Sesquiterpene
+2-(1-Methylethyl)phenol
+3-Methyl-1-buten-1-ol
+3-Nonen-1-ol, (Z)
+2-Methylbutanoic Acid Ethylester
+1-Octen-3-one
+2-Propanol1-Propano
+Beta-Elemene
+4-Cyanothiophenol
+3-Octanone
+Valencene
+E-2-Methyl-2-butenal
+2-heptanone
+2,6-Bis(1,1-dimethylethyl)-4-methylphenol
+2,5-Dimethylpyrazine
+2,4-Nonadienal
+Trimethylethylene
+2-pentanone
+Gamma-Curcumene
+Methyl 2-methylpropionate
+Banzothiazole
+1-Butanol
+2,3-Dimethoxytoluene
+3-Methylfuran
+Hexane, 2,3-dimethyl-
+3-Carene
+P-Mentha-6,8-dien-2-ol Acetate
+Cyclopentanone
+Hydroxybenzene-4-sulfonic Acid
+5-Octen-1-ol, (Z)-
+Acetic Acid, Octyl Ester
+3-Ethylphenol
+(5-Ethylcyclopent-1-enyl)methanol
+Anisaldehyde
+1-Pentanol
+Alpha-Bergamotene
+Octadiene 2 Isomers
+2-Butenal
+2-Butyl Acetate
+Ethylene
+Beta-patchoulene-isomer
+Propanoic Acid, 2-methyl-3-methylbutyl Ester
+2-Methylfuran
+Zonarene
+3-Methylbut-3-en-1-ol
+Octadiene Isomer
+3-octanone
+1,2-Propanediol
+Naphthalene,1,2,3,4,4a,5,6,8a-octahydro-4a,8-dimethyl-2-(1-methylethylidene)-,(4aR-trans)-
+Butanoic Acid, Propyl Ester
+Methyl(methylthio)methyl Disulfide
+1,9Dimethylspiro(4,5)decane
+5-Methyl-2-propylphenol
+Methyl Chloride
+2,5-Dimethoxytoluene
+Ethyl Acetate
+Ortho-Dimethylbenzene
+Longifolene
+Cis-Calamenene
+1-undecene
+Nonanal
+Methyl Dihydrojasmonate
+Delta-2-Dodecanol
+Veratryl Alcohol
+Beta-Bisabolene
+1H Cycloprop[e]azulene,decahydro-1,1,7-trimethyl-4methylene-,[1aR-(1a.alpha.,4a.alpha.,7.alpha.,7a.beta.,7b.alpha.)]-
+3-Methyl Butanal
+Beta-elemene-isomer
+6-Methyl-5-hepten-2-one
+2-Ethylhexanal
+3,4-Dimethoxytoluene
+2,20-Dithiodiethanol
+3-Methyl-2-butenoic Acid Ethylester
+Formaldehyde
+Spiro[5,5]undec-2-ene,3,7,7-trimethyl-11-methylene-,(-)-
+Pyrazine
+1-Hexanol
+Alpha-pinene
+2-Methylhexanoic Acid
+3-Methylbutyl Butanoate
+Butanal
+1,4-Dimethoxybenzene
+Trans-2-Octenal
+2-Hexen-1-ol
+Hexadecane
+1,3-Dimethylbenzene
+2,3,4-Trimethyl-4-hydroxy-1,4-dihyronaphthalenone
+Trimethylamine
+Sabinene
+Acetic Acid, Propyl Ester
+Cis-Methylpropenylsulfide
+2-heptanol
+Propanoic Acid, Methyl Ester
+2-Methyl-3-furanthiol
+Butanoic Acid, 2-methyl-2-methylpropyl Ester
+1,2-Pentadiene
